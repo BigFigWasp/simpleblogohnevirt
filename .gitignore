@@ -9,3 +9,4 @@ venv.bak/
 /virt
 
 /.gitignore
+db.sqlite3
