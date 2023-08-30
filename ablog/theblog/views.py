@@ -19,3 +19,4 @@ class AddPostView(CreateView):
     fields = '__all__'
     #fields = ('title', 'body')
     #test
+    #test2
