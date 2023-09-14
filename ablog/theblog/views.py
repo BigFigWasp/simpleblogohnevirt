@@ -17,7 +17,7 @@ class AddPostView(CreateView):
     model = Post
     template_name = 'add_post.html'
     fields = '__all__'
-    #fields = ('title', 'body')
+    #fields = ('title', 'body')a
     #test
     #test2
     #test3
